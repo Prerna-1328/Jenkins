@@ -1,5 +1,5 @@
 class HelloWorld {
     public static void main(String[] args) {
-        System.out.println("Hello World From Web-Hook!");
+        System.out.println("Hello World From Web-Hook Trigger!");
     }
 }
