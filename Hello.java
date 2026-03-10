@@ -1,5 +1,5 @@
 class Hello{
     public static void main(String[] args) {
-        System.out.println("Hello World From Web-Hook Trigger Demo from jenkins!");
+        System.out.println("Hello World From Web-Hook Github webook Trigger!");
     }
 }
